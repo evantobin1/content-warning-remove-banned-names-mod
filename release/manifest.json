@@ -1,0 +1,9 @@
+{
+    "name": "RemoveBannedWords",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/evantobin1",
+    "description": "This mod removes all of the banned character names in Content Warning.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
